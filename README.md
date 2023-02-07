@@ -2,7 +2,7 @@
 
 ## What is it?
 
-SportLink Connect is a web application which aims to match lonely athletes to each other based on their geographical location and training preference. It demonstrates how users can sign up, login and have their favorited point of interest saved on local storage. 
+SportLink Connect is a proof of concept web application which aims to match lonely athletes to each other based on their geographical location and training preference. It demonstrates how users can sign up, login and have their favorited point of interest saved on local storage. 
 
 ---
 ## How does it work?
