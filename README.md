@@ -9,7 +9,11 @@ SportLink Connect is a proof of concept web application which aims to match lone
 
 click the link [here](https://tegrty.github.io/Sport-Link-Connect/), sign-up at the top of the page, login, type in your desired location to connect and double click your favourite points of interest. If another athlete were to login, they would be able to view the previous members locations and would be prompted to connect (this function is to be added in a future update).
 
-![image](/assets/img/Readme-gif.gif)
+
+
+https://user-images.githubusercontent.com/121316876/221342424-09ffa351-bbe6-4649-af7b-5857bc319475.mp4
+
+
 
 ## Technology used:
 
